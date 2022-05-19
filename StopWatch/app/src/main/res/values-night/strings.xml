@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time_hr">00</string>
+    <string name="time_min">00</string>
+</resources>

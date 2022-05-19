@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="time_hr">00</string>
+    <string name="colon">:</string>
+    <string name="time_sec">00</string>
+    <string name="time_milli">0</string>
+    <string name="time_min">00</string>
+    <string name="btn1">Start</string>
+    <string name="btn2">Lap</string>
+    <string name="str_main">Lap\t\t\t\t\t\tLap times\t\t\t\t\tOverall time</string>
+    <string name="str_laps">01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12\n01\t\t\t\t\t19:00:12\t\t\t\t\t19:00:12</string>
+
+</resources>
